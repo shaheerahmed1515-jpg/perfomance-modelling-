@@ -1,0 +1,4 @@
+Doctors,AvgWaitingTime_min,AvgQueueLength_est,Throughput_patients_per_hr,DoctorUtilization_fraction,DoctorUtilization_percent,SimulationEnd_min
+1,101.32,13.76630435,8.152173913,1,100,368
+2,11.94,3.12565445,15.70680628,0.963350785,96.33507853,191
+3,0.36,0.110429448,18.40490798,0.752556237,75.25562372,163
